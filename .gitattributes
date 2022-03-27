@@ -1,0 +1,2 @@
+.iypnb filter=lfs diff=lfs merge=lfs -text
+book_list_api.ipynb filter=lfs diff=lfs merge=lfs -text
