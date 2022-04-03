@@ -1,0 +1,60 @@
+,list_name,display_name,list_name_encoded,oldest_published_date,newest_published_date,updated
+0,Combined Print and E-Book Fiction,Combined Print & E-Book Fiction,combined-print-and-e-book-fiction,2011-02-13,2022-04-10,WEEKLY
+1,Combined Print and E-Book Nonfiction,Combined Print & E-Book Nonfiction,combined-print-and-e-book-nonfiction,2011-02-13,2022-04-10,WEEKLY
+2,Hardcover Fiction,Hardcover Fiction,hardcover-fiction,2008-06-08,2022-04-10,WEEKLY
+3,Hardcover Nonfiction,Hardcover Nonfiction,hardcover-nonfiction,2008-06-08,2022-04-10,WEEKLY
+4,Trade Fiction Paperback,Paperback Trade Fiction,trade-fiction-paperback,2008-06-08,2022-04-10,WEEKLY
+5,Mass Market Paperback,Paperback Mass-Market Fiction,mass-market-paperback,2008-06-08,2017-01-29,WEEKLY
+6,Paperback Nonfiction,Paperback Nonfiction,paperback-nonfiction,2008-06-08,2022-04-10,WEEKLY
+7,E-Book Fiction,E-Book Fiction,e-book-fiction,2011-02-13,2017-01-29,WEEKLY
+8,E-Book Nonfiction,E-Book Nonfiction,e-book-nonfiction,2011-02-13,2017-01-29,WEEKLY
+9,Hardcover Advice,Hardcover Advice & Misc.,hardcover-advice,2008-06-08,2013-04-21,WEEKLY
+10,Paperback Advice,Paperback Advice & Misc.,paperback-advice,2008-06-08,2013-04-21,WEEKLY
+11,Advice How-To and Miscellaneous,"Advice, How-To & Miscellaneous",advice-how-to-and-miscellaneous,2013-04-28,2022-04-10,WEEKLY
+12,Hardcover Graphic Books,Hardcover Graphic Books,hardcover-graphic-books,2009-03-15,2017-01-29,WEEKLY
+13,Paperback Graphic Books,Paperback Graphic Books,paperback-graphic-books,2009-03-15,2017-01-29,WEEKLY
+14,Manga,Manga,manga,2009-03-15,2017-01-29,WEEKLY
+15,Combined Print Fiction,Combined Hardcover & Paperback Fiction,combined-print-fiction,2011-02-13,2013-05-12,WEEKLY
+16,Combined Print Nonfiction,Combined Hardcover & Paperback Nonfiction,combined-print-nonfiction,2011-02-13,2013-05-12,WEEKLY
+17,Chapter Books,Children’s Chapter Books,chapter-books,2008-06-08,2012-12-09,WEEKLY
+18,Childrens Middle Grade,Children’s Middle Grade,childrens-middle-grade,2012-12-16,2015-08-23,WEEKLY
+19,Childrens Middle Grade E-Book,Children’s Middle Grade E-Book,childrens-middle-grade-e-book,2015-08-30,2017-01-29,WEEKLY
+20,Childrens Middle Grade Hardcover,Children’s Middle Grade Hardcover,childrens-middle-grade-hardcover,2015-08-30,2022-04-10,WEEKLY
+21,Childrens Middle Grade Paperback,Children’s Middle Grade Paperback,childrens-middle-grade-paperback,2015-08-30,2017-01-29,WEEKLY
+22,Paperback Books,Children’s Paperback Books,paperback-books,2008-06-08,2012-12-09,WEEKLY
+23,Picture Books,Children’s Picture Books,picture-books,2008-06-08,2022-04-10,WEEKLY
+24,Series Books,Children’s Series,series-books,2008-06-08,2022-04-10,WEEKLY
+25,Young Adult,Young Adult,young-adult,2012-12-16,2015-08-23,WEEKLY
+26,Young Adult E-Book,Young Adult E-Book,young-adult-e-book,2015-08-30,2017-01-29,WEEKLY
+27,Young Adult Hardcover,Young Adult Hardcover,young-adult-hardcover,2015-08-30,2022-04-10,WEEKLY
+28,Young Adult Paperback,Young Adult Paperback,young-adult-paperback,2015-08-30,2017-01-29,WEEKLY
+29,Animals,Animals,animals,2014-09-07,2017-01-15,MONTHLY
+30,Audio Fiction,Audio Fiction,audio-fiction,2018-03-11,2022-03-13,MONTHLY
+31,Audio Nonfiction,Audio Nonfiction,audio-nonfiction,2018-03-11,2022-03-13,MONTHLY
+32,Business Books,Business,business-books,2013-11-03,2022-03-13,MONTHLY
+33,Celebrities,Celebrities,celebrities,2014-09-07,2017-01-15,MONTHLY
+34,Crime and Punishment,Crime and Punishment,crime-and-punishment,2014-10-12,2017-01-15,MONTHLY
+35,Culture,Culture,culture,2014-10-12,2017-01-15,MONTHLY
+36,Education,Education,education,2014-10-12,2017-01-15,MONTHLY
+37,Espionage,Espionage,espionage,2014-12-14,2017-01-15,MONTHLY
+38,Expeditions Disasters and Adventures,Expeditions,expeditions-disasters-and-adventures,2014-12-14,2017-01-15,MONTHLY
+39,Fashion Manners and Customs,"Fashion, Manners and Customs",fashion-manners-and-customs,2014-10-12,2017-01-15,MONTHLY
+40,Food and Fitness,Food and Diet,food-and-fitness,2013-09-01,2017-01-15,MONTHLY
+41,Games and Activities,Games and Activities,games-and-activities,2014-10-12,2017-01-15,MONTHLY
+42,Graphic Books and Manga,Graphic Books and Manga,graphic-books-and-manga,2019-10-13,2022-03-13,MONTHLY
+43,Hardcover Business Books,Hardcover Business Books,hardcover-business-books,2011-07-03,2013-10-13,MONTHLY
+44,Health,Health,health,2014-10-12,2017-01-15,MONTHLY
+45,Humor,Humor,humor,2014-09-07,2017-01-15,MONTHLY
+46,Indigenous Americans,Indigenous Americans,indigenous-americans,2014-12-14,2016-01-10,MONTHLY
+47,Relationships,Love and Relationships,relationships,2014-09-07,2017-01-15,MONTHLY
+48,Mass Market Monthly,Mass Market,mass-market-monthly,2019-10-13,2022-03-13,MONTHLY
+49,Middle Grade Paperback Monthly,Middle Grade Paperback,middle-grade-paperback-monthly,2019-10-13,2022-03-13,MONTHLY
+50,Paperback Business Books,Paperback Business Books,paperback-business-books,2011-07-03,2013-10-13,MONTHLY
+51,Family,Parenthood and Family,family,2014-09-07,2017-01-15,MONTHLY
+52,Hardcover Political Books,Politics and American History,hardcover-political-books,2011-07-03,2017-01-15,MONTHLY
+53,Race and Civil Rights,Race and Civil Rights,race-and-civil-rights,2014-12-14,2017-01-15,MONTHLY
+54,Religion Spirituality and Faith,"Religion, Spirituality and Faith",religion-spirituality-and-faith,2014-09-07,2017-01-15,MONTHLY
+55,Science,Science,science,2013-04-14,2019-09-15,MONTHLY
+56,Sports,Sports and Fitness,sports,2014-03-02,2019-09-15,MONTHLY
+57,Travel,Travel,travel,2014-09-07,2017-01-15,MONTHLY
+58,Young Adult Paperback Monthly,Young Adult Paperback,young-adult-paperback-monthly,2019-10-13,2022-03-13,MONTHLY
