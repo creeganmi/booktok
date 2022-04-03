@@ -599,3 +599,603 @@
 597,2022-04-01,Where The Crawdads Sing,Delia Owens,13,2022,4,combined-print-and-e-book-fiction
 598,2022-04-01,The Love Hypothesis,Ali Hazelwood,14,2022,4,combined-print-and-e-book-fiction
 599,2022-04-01,One Italian Summer,Rebecca Serle,15,2022,4,combined-print-and-e-book-fiction
+0,2019-01-01,Becoming,Michelle Obama,1,2019,1,combined-print-and-e-book-nonfiction
+1,2019-01-01,The Point Of It All,"Charles Krauthammer, edited by Daniel Krauthammer",2,2019,1,combined-print-and-e-book-nonfiction
+2,2019-01-01,Educated,Tara Westover,3,2019,1,combined-print-and-e-book-nonfiction
+3,2019-01-01,Killing The Ss,Bill O'Reilly and Martin Dugard,4,2019,1,combined-print-and-e-book-nonfiction
+4,2019-01-01,Sapiens,Yuval Noah Harari,5,2019,1,combined-print-and-e-book-nonfiction
+5,2019-01-01,Shade,Pete Souza,6,2019,1,combined-print-and-e-book-nonfiction
+6,2019-01-01,Leadership,Doris Kearns Goodwin,7,2019,1,combined-print-and-e-book-nonfiction
+7,2019-01-01,Churchill: Walking With Destiny,Andrew Roberts,8,2019,1,combined-print-and-e-book-nonfiction
+8,2019-01-01,Brief Answers To The Big Questions,Stephen Hawking,9,2019,1,combined-print-and-e-book-nonfiction
+9,2019-01-01,Beastie Boys Book,Michael Diamond and Adam Horovitz,10,2019,1,combined-print-and-e-book-nonfiction
+10,2019-01-01,Fear,Bob Woodward,11,2019,1,combined-print-and-e-book-nonfiction
+11,2019-01-01,Ship Of Fools,Tucker Carlson,12,2019,1,combined-print-and-e-book-nonfiction
+12,2019-01-01,The Fifth Risk,Michael Lewis,13,2019,1,combined-print-and-e-book-nonfiction
+13,2019-01-01,Obama,Pete Souza,14,2019,1,combined-print-and-e-book-nonfiction
+14,2019-01-01,Bad Blood,John Carreyrou,15,2019,1,combined-print-and-e-book-nonfiction
+15,2019-02-01,Becoming,Michelle Obama,1,2019,2,combined-print-and-e-book-nonfiction
+16,2019-02-01,Educated,Tara Westover,2,2019,2,combined-print-and-e-book-nonfiction
+17,2019-02-01,The First Conspiracy,Brad Meltzer and Josh Mensch,3,2019,2,combined-print-and-e-book-nonfiction
+18,2019-02-01,Sapiens,Yuval Noah Harari,4,2019,2,combined-print-and-e-book-nonfiction
+19,2019-02-01,Factfulness,Hans Rosling with Ola Rosling and Anna Rosling Ronnlund,5,2019,2,combined-print-and-e-book-nonfiction
+20,2019-02-01,Bad Blood,John Carreyrou,6,2019,2,combined-print-and-e-book-nonfiction
+21,2019-02-01,Ai Superpowers,Kai-Fu Lee,7,2019,2,combined-print-and-e-book-nonfiction
+22,2019-02-01,The Library Book,Susan Orlean,8,2019,2,combined-print-and-e-book-nonfiction
+23,2019-02-01,Women Rowing North,Mary Pipher,9,2019,2,combined-print-and-e-book-nonfiction
+24,2019-02-01,Inheritance,Dani Shapiro,10,2019,2,combined-print-and-e-book-nonfiction
+25,2019-02-01,The Point Of It All,"Charles Krauthammer, edited by Daniel Krauthammer",11,2019,2,combined-print-and-e-book-nonfiction
+26,2019-02-01,The Truths We Hold,Kamala Harris,12,2019,2,combined-print-and-e-book-nonfiction
+27,2019-02-01,21 Lessons For The 21St Century,Yuval Noah Harari,13,2019,2,combined-print-and-e-book-nonfiction
+28,2019-02-01,How To Change Your Mind,Michael Pollan,14,2019,2,combined-print-and-e-book-nonfiction
+29,2019-02-01,Elon Musk,Ashlee Vance,15,2019,2,combined-print-and-e-book-nonfiction
+30,2019-03-01,Becoming,Michelle Obama,1,2019,3,combined-print-and-e-book-nonfiction
+31,2019-03-01,Educated,Tara Westover,2,2019,3,combined-print-and-e-book-nonfiction
+32,2019-03-01,Grateful American,Gary Sinise with Marcus Brotherton,3,2019,3,combined-print-and-e-book-nonfiction
+33,2019-03-01,Bad Blood,John Carreyrou,4,2019,3,combined-print-and-e-book-nonfiction
+34,2019-03-01,Sapiens,Yuval Noah Harari,5,2019,3,combined-print-and-e-book-nonfiction
+35,2019-03-01,Born A Crime,Trevor Noah,6,2019,3,combined-print-and-e-book-nonfiction
+36,2019-03-01,The First Conspiracy,Brad Meltzer and Josh Mensch,7,2019,3,combined-print-and-e-book-nonfiction
+37,2019-03-01,Maid,Stephanie Land,8,2019,3,combined-print-and-e-book-nonfiction
+38,2019-03-01,Women Rowing North,Mary Pipher,9,2019,3,combined-print-and-e-book-nonfiction
+39,2019-03-01,The Library Book,Susan Orlean,10,2019,3,combined-print-and-e-book-nonfiction
+40,2019-03-01,Killers Of The Flower Moon,David Grann,11,2019,3,combined-print-and-e-book-nonfiction
+41,2019-03-01,Midnight In Chernobyl,Adam Higginbotham,12,2019,3,combined-print-and-e-book-nonfiction
+42,2019-03-01,Let Me Finish,Chris Christie with Ellis Henican,13,2019,3,combined-print-and-e-book-nonfiction
+43,2019-03-01,Shortest Way Home,Pete Buttigieg,14,2019,3,combined-print-and-e-book-nonfiction
+44,2019-03-01,A Serial Killer'S Daughter,Kerri Rawson,15,2019,3,combined-print-and-e-book-nonfiction
+45,2019-04-01,The Right Side Of History,Ben Shapiro,1,2019,4,combined-print-and-e-book-nonfiction
+46,2019-04-01,Educated,Tara Westover,2,2019,4,combined-print-and-e-book-nonfiction
+47,2019-04-01,Becoming,Michelle Obama,3,2019,4,combined-print-and-e-book-nonfiction
+48,2019-04-01,"Kushner, Inc.",Vicky Ward,4,2019,4,combined-print-and-e-book-nonfiction
+49,2019-04-01,Bad Blood,John Carreyrou,5,2019,4,combined-print-and-e-book-nonfiction
+50,2019-04-01,Doing Justice,Preet Bharara,6,2019,4,combined-print-and-e-book-nonfiction
+51,2019-04-01,Sapiens,Yuval Noah Harari,7,2019,4,combined-print-and-e-book-nonfiction
+52,2019-04-01,Shortest Way Home,Pete Buttigieg,8,2019,4,combined-print-and-e-book-nonfiction
+53,2019-04-01,Born A Crime,Trevor Noah,9,2019,4,combined-print-and-e-book-nonfiction
+54,2019-04-01,Mama'S Last Hug,Frans de Waal,10,2019,4,combined-print-and-e-book-nonfiction
+55,2019-04-01,Madame Fourcade'S Secret War,Lynne Olson,11,2019,4,combined-print-and-e-book-nonfiction
+56,2019-04-01,First: Sandra Day O'Connor,Evan Thomas,12,2019,4,combined-print-and-e-book-nonfiction
+57,2019-04-01,The Uninhabitable Earth,David Wallace-Wells,13,2019,4,combined-print-and-e-book-nonfiction
+58,2019-04-01,Say Nothing,Patrick Radden Keefe,14,2019,4,combined-print-and-e-book-nonfiction
+59,2019-04-01,The Threat,Andrew G. McCabe,15,2019,4,combined-print-and-e-book-nonfiction
+60,2019-05-01,Becoming,Michelle Obama,1,2019,5,combined-print-and-e-book-nonfiction
+61,2019-05-01,The Second Mountain,David Brooks,2,2019,5,combined-print-and-e-book-nonfiction
+62,2019-05-01,Educated,Tara Westover,3,2019,5,combined-print-and-e-book-nonfiction
+63,2019-05-01,Life Will Be The Death Of Me,Chelsea Handler,4,2019,5,combined-print-and-e-book-nonfiction
+64,2019-05-01,Sapiens,Yuval Noah Harari,5,2019,5,combined-print-and-e-book-nonfiction
+65,2019-05-01,Shortest Way Home,Pete Buttigieg,6,2019,5,combined-print-and-e-book-nonfiction
+66,2019-05-01,Maybe You Should Talk To Someone,Lori Gottlieb,7,2019,5,combined-print-and-e-book-nonfiction
+67,2019-05-01,The Matriarch,Susan Page,8,2019,5,combined-print-and-e-book-nonfiction
+68,2019-05-01,Save Me The Plums,Ruth Reichl,9,2019,5,combined-print-and-e-book-nonfiction
+69,2019-05-01,Bad Blood,John Carreyrou,10,2019,5,combined-print-and-e-book-nonfiction
+70,2019-05-01,Lessons From Lucy,Dave Barry,11,2019,5,combined-print-and-e-book-nonfiction
+71,2019-05-01,Born A Crime,Trevor Noah,12,2019,5,combined-print-and-e-book-nonfiction
+72,2019-05-01,The Right Side Of History,Ben Shapiro,13,2019,5,combined-print-and-e-book-nonfiction
+73,2019-05-01,A Woman Of No Importance,Sonia Purnell,14,2019,5,combined-print-and-e-book-nonfiction
+74,2019-05-01,Falter,Bill McKibben,15,2019,5,combined-print-and-e-book-nonfiction
+75,2019-06-01,Howard Stern Comes Again,Howard Stern,1,2019,6,combined-print-and-e-book-nonfiction
+76,2019-06-01,The Pioneers,David McCullough,2,2019,6,combined-print-and-e-book-nonfiction
+77,2019-06-01,Educated,Tara Westover,3,2019,6,combined-print-and-e-book-nonfiction
+78,2019-06-01,Becoming,Michelle Obama,4,2019,6,combined-print-and-e-book-nonfiction
+79,2019-06-01,The Mueller Report,h related materials by The Washington Post,5,2019,6,combined-print-and-e-book-nonfiction
+80,2019-06-01,The British Are Coming,Rick Atkinson,6,2019,6,combined-print-and-e-book-nonfiction
+81,2019-06-01,The Moment Of Lift,Melinda Gates,7,2019,6,combined-print-and-e-book-nonfiction
+82,2019-06-01,Furious Hours,Casey Cep,8,2019,6,combined-print-and-e-book-nonfiction
+83,2019-06-01,Sacred Duty,Tom Cotton,9,2019,6,combined-print-and-e-book-nonfiction
+84,2019-06-01,The Second Mountain,David Brooks,10,2019,6,combined-print-and-e-book-nonfiction
+85,2019-06-01,The Mueller Report,h an introduction by Alan Dershowitz,11,2019,6,combined-print-and-e-book-nonfiction
+86,2019-06-01,Maybe You Should Talk To Someone,Lori Gottlieb,12,2019,6,combined-print-and-e-book-nonfiction
+87,2019-06-01,Commander In Cheat,Rick Reilly,13,2019,6,combined-print-and-e-book-nonfiction
+88,2019-06-01,Life Will Be The Death Of Me,Chelsea Handler,14,2019,6,combined-print-and-e-book-nonfiction
+89,2019-06-01,Sapiens,Yuval Noah Harari,15,2019,6,combined-print-and-e-book-nonfiction
+90,2019-07-01,Educated,Tara Westover,1,2019,7,combined-print-and-e-book-nonfiction
+91,2019-07-01,Unfreedom Of The Press,Mark R. Levin,2,2019,7,combined-print-and-e-book-nonfiction
+92,2019-07-01,The Pioneers,David McCullough,3,2019,7,combined-print-and-e-book-nonfiction
+93,2019-07-01,Becoming,Michelle Obama,4,2019,7,combined-print-and-e-book-nonfiction
+94,2019-07-01,The Mueller Report,h related materials by The Washington Post,5,2019,7,combined-print-and-e-book-nonfiction
+95,2019-07-01,Howard Stern Comes Again,Howard Stern,6,2019,7,combined-print-and-e-book-nonfiction
+96,2019-07-01,Born A Crime,Trevor Noah,7,2019,7,combined-print-and-e-book-nonfiction
+97,2019-07-01,Sapiens,Yuval Noah Harari,8,2019,7,combined-print-and-e-book-nonfiction
+98,2019-07-01,Songs Of America,Jon Meacham and Tim McGraw,9,2019,7,combined-print-and-e-book-nonfiction
+99,2019-07-01,Killers Of The Flower Moon,David Grann,10,2019,7,combined-print-and-e-book-nonfiction
+100,2019-07-01,Sea Stories,William H. McRaven,11,2019,7,combined-print-and-e-book-nonfiction
+101,2019-07-01,Maybe You Should Talk To Someone,Lori Gottlieb,12,2019,7,combined-print-and-e-book-nonfiction
+102,2019-07-01,The Moment Of Lift,Melinda Gates,13,2019,7,combined-print-and-e-book-nonfiction
+103,2019-07-01,The Choice,Edith Eva Eger,14,2019,7,combined-print-and-e-book-nonfiction
+104,2019-07-01,The British Are Coming,Rick Atkinson,15,2019,7,combined-print-and-e-book-nonfiction
+105,2019-08-01,Educated,Tara Westover,1,2019,8,combined-print-and-e-book-nonfiction
+106,2019-08-01,American Carnage,Tim Alberta,2,2019,8,combined-print-and-e-book-nonfiction
+107,2019-08-01,Three Women,Lisa Taddeo,3,2019,8,combined-print-and-e-book-nonfiction
+108,2019-08-01,Justice On Trial,Mollie Hemingway and Carrie Severino,4,2019,8,combined-print-and-e-book-nonfiction
+109,2019-08-01,The Pioneers,David McCullough,5,2019,8,combined-print-and-e-book-nonfiction
+110,2019-08-01,Becoming,Michelle Obama,6,2019,8,combined-print-and-e-book-nonfiction
+111,2019-08-01,Unfreedom Of The Press,Mark R. Levin,7,2019,8,combined-print-and-e-book-nonfiction
+112,2019-08-01,Born A Crime,Trevor Noah,8,2019,8,combined-print-and-e-book-nonfiction
+113,2019-08-01,Sapiens,Yuval Noah Harari,9,2019,8,combined-print-and-e-book-nonfiction
+114,2019-08-01,America'S Reluctant Prince,Steven M. Gillon,10,2019,8,combined-print-and-e-book-nonfiction
+115,2019-08-01,The Mueller Report,h related materials by The Washington Post,11,2019,8,combined-print-and-e-book-nonfiction
+116,2019-08-01,They Called Us Enemy,"George Takei, Justin Eisinger and Steven Scott. Illustrated by Harmony Becker",12,2019,8,combined-print-and-e-book-nonfiction
+117,2019-08-01,Just Mercy,Bryan Stevenson,13,2019,8,combined-print-and-e-book-nonfiction
+118,2019-08-01,Maybe You Should Talk To Someone,Lori Gottlieb,14,2019,8,combined-print-and-e-book-nonfiction
+119,2019-08-01,White Fragility,Robin DiAngelo,15,2019,8,combined-print-and-e-book-nonfiction
+120,2019-09-01,Educated,Tara Westover,1,2019,9,combined-print-and-e-book-nonfiction
+121,2019-09-01,How To Be An Antiracist,Ibram X. Kendi,2,2019,9,combined-print-and-e-book-nonfiction
+122,2019-09-01,Becoming,Michelle Obama,3,2019,9,combined-print-and-e-book-nonfiction
+123,2019-09-01,Born A Crime,Trevor Noah,4,2019,9,combined-print-and-e-book-nonfiction
+124,2019-09-01,Three Women,Lisa Taddeo,5,2019,9,combined-print-and-e-book-nonfiction
+125,2019-09-01,The Pioneers,David McCullough,6,2019,9,combined-print-and-e-book-nonfiction
+126,2019-09-01,Sapiens,Yuval Noah Harari,7,2019,9,combined-print-and-e-book-nonfiction
+127,2019-09-01,Ball Of Collusion,Andrew C. McCarthy,8,2019,9,combined-print-and-e-book-nonfiction
+128,2019-09-01,Range,David Epstein,9,2019,9,combined-print-and-e-book-nonfiction
+129,2019-09-01,Trick Mirror,Jia Tolentino,10,2019,9,combined-print-and-e-book-nonfiction
+130,2019-09-01,Maybe You Should Talk To Someone,Lori Gottlieb,11,2019,9,combined-print-and-e-book-nonfiction
+131,2019-09-01,Kochland,Christopher Leonard,12,2019,9,combined-print-and-e-book-nonfiction
+132,2019-09-01,White Fragility,Robin DiAngelo,13,2019,9,combined-print-and-e-book-nonfiction
+133,2019-09-01,Unfreedom Of The Press,Mark R. Levin,14,2019,9,combined-print-and-e-book-nonfiction
+134,2019-09-01,The Yellow House,Sarah M. Broom,15,2019,9,combined-print-and-e-book-nonfiction
+135,2019-10-01,Talking To Strangers,Malcolm Gladwell,1,2019,10,combined-print-and-e-book-nonfiction
+136,2019-10-01,Permanent Record,Edward Snowden,2,2019,10,combined-print-and-e-book-nonfiction
+137,2019-10-01,Educated,Tara Westover,3,2019,10,combined-print-and-e-book-nonfiction
+138,2019-10-01,Call Sign Chaos,Jim Mattis and Bing West,4,2019,10,combined-print-and-e-book-nonfiction
+139,2019-10-01,She Said,Jodi Kantor and Megan Twohey,5,2019,10,combined-print-and-e-book-nonfiction
+140,2019-10-01,The Only Plane In The Sky,Garrett M. Graff,6,2019,10,combined-print-and-e-book-nonfiction
+141,2019-10-01,Becoming,Michelle Obama,7,2019,10,combined-print-and-e-book-nonfiction
+142,2019-10-01,The Education Of An Idealist,Samantha Power,8,2019,10,combined-print-and-e-book-nonfiction
+143,2019-10-01,Sapiens,Yuval Noah Harari,9,2019,10,combined-print-and-e-book-nonfiction
+144,2019-10-01,Lifespan,David A. Sinclair and Matthew D. LaPlante,10,2019,10,combined-print-and-e-book-nonfiction
+145,2019-10-01,Born A Crime,Trevor Noah,11,2019,10,combined-print-and-e-book-nonfiction
+146,2019-10-01,Maybe You Should Talk To Someone,Lori Gottlieb,12,2019,10,combined-print-and-e-book-nonfiction
+147,2019-10-01,"Radicals, Resistance And Revenge",Jeanine Pirro,13,2019,10,combined-print-and-e-book-nonfiction
+148,2019-10-01,How To,Randall Munroe,14,2019,10,combined-print-and-e-book-nonfiction
+149,2019-10-01,Three Women,Lisa Taddeo,15,2019,10,combined-print-and-e-book-nonfiction
+150,2019-11-01,Me,Elton John,1,2019,11,combined-print-and-e-book-nonfiction
+151,2019-11-01,Catch And Kill,Ronan Farrow,2,2019,11,combined-print-and-e-book-nonfiction
+152,2019-11-01,Blowout,Rachel Maddow,3,2019,11,combined-print-and-e-book-nonfiction
+153,2019-11-01,The Way I Heard It,Mike Rowe,4,2019,11,combined-print-and-e-book-nonfiction
+154,2019-11-01,The Body,Bill Bryson,5,2019,11,combined-print-and-e-book-nonfiction
+155,2019-11-01,Home Work,Julie Andrews and Emma Walton Hamilton,6,2019,11,combined-print-and-e-book-nonfiction
+156,2019-11-01,Talking To Strangers,Malcolm Gladwell,7,2019,11,combined-print-and-e-book-nonfiction
+157,2019-11-01,Dear Girls,Ali Wong,8,2019,11,combined-print-and-e-book-nonfiction
+158,2019-11-01,Educated,Tara Westover,9,2019,11,combined-print-and-e-book-nonfiction
+159,2019-11-01,The United States Of Trump,Bill O'Reilly,10,2019,11,combined-print-and-e-book-nonfiction
+160,2019-11-01,On Tyranny,Timothy Snyder,11,2019,11,combined-print-and-e-book-nonfiction
+161,2019-11-01,Inside Out,Demi Moore,12,2019,11,combined-print-and-e-book-nonfiction
+162,2019-11-01,The Book Of Gutsy Women,Hillary Rodham Clinton and Chelsea Clinton,13,2019,11,combined-print-and-e-book-nonfiction
+163,2019-11-01,Life Undercover,Amaryllis Fox,14,2019,11,combined-print-and-e-book-nonfiction
+164,2019-11-01,Resistance (At All Costs),Kimberley Strassel,15,2019,11,combined-print-and-e-book-nonfiction
+165,2019-12-01,Triggered,Donald Trump Jr,1,2019,12,combined-print-and-e-book-nonfiction
+166,2019-12-01,Talking To Strangers,Malcolm Gladwell,2,2019,12,combined-print-and-e-book-nonfiction
+167,2019-12-01,Sam Houston And The Alamo Avengers,Brian Kilmeade,3,2019,12,combined-print-and-e-book-nonfiction
+168,2019-12-01,With All Due Respect,Nikki R. Haley,4,2019,12,combined-print-and-e-book-nonfiction
+169,2019-12-01,Finding Chika,Mitch Albom,5,2019,12,combined-print-and-e-book-nonfiction
+170,2019-12-01,Me,Elton John,6,2019,12,combined-print-and-e-book-nonfiction
+171,2019-12-01,Educated,Tara Westover,7,2019,12,combined-print-and-e-book-nonfiction
+172,2019-12-01,A Song For You,Robyn Crawford,8,2019,12,combined-print-and-e-book-nonfiction
+173,2019-12-01,Catch And Kill,Ronan Farrow,9,2019,12,combined-print-and-e-book-nonfiction
+174,2019-12-01,The Body,Bill Bryson,10,2019,12,combined-print-and-e-book-nonfiction
+175,2019-12-01,Blowout,Rachel Maddow,11,2019,12,combined-print-and-e-book-nonfiction
+176,2019-12-01,The Plot To Betray America,Malcolm Nance,12,2019,12,combined-print-and-e-book-nonfiction
+177,2019-12-01,I Heard You Paint Houses,Charles Brandt,13,2019,12,combined-print-and-e-book-nonfiction
+178,2019-12-01,The Beautiful Ones,Prince. Edited by Dan Piepenbring,14,2019,12,combined-print-and-e-book-nonfiction
+179,2019-12-01,Becoming,Michelle Obama,15,2019,12,combined-print-and-e-book-nonfiction
+180,2020-01-01,Educated,Tara Westover,1,2020,1,combined-print-and-e-book-nonfiction
+181,2020-01-01,Becoming,Michelle Obama,2,2020,1,combined-print-and-e-book-nonfiction
+182,2020-01-01,Talking To Strangers,Malcolm Gladwell,3,2020,1,combined-print-and-e-book-nonfiction
+183,2020-01-01,Me,Elton John,4,2020,1,combined-print-and-e-book-nonfiction
+184,2020-01-01,Sam Houston And The Alamo Avengers,Brian Kilmeade,5,2020,1,combined-print-and-e-book-nonfiction
+185,2020-01-01,A Warning,Anonymous,6,2020,1,combined-print-and-e-book-nonfiction
+186,2020-01-01,The Body,Bill Bryson,7,2020,1,combined-print-and-e-book-nonfiction
+187,2020-01-01,I Heard You Paint Houses,Charles Brandt,8,2020,1,combined-print-and-e-book-nonfiction
+188,2020-01-01,Mobituaries,Mo Rocca and Jonathan Greenberg,9,2020,1,combined-print-and-e-book-nonfiction
+189,2020-01-01,No One Is Too Small To Make A Difference,Greta Thunberg,10,2020,1,combined-print-and-e-book-nonfiction
+190,2020-01-01,Triggered,Donald Trump Jr,11,2020,1,combined-print-and-e-book-nonfiction
+191,2020-01-01,Finding Chika,Mitch Albom,12,2020,1,combined-print-and-e-book-nonfiction
+192,2020-01-01,The Book Of Gutsy Women,Hillary Rodham Clinton and Chelsea Clinton,13,2020,1,combined-print-and-e-book-nonfiction
+193,2020-01-01,How To,Randall Munroe,14,2020,1,combined-print-and-e-book-nonfiction
+194,2020-01-01,Blowout,Rachel Maddow,15,2020,1,combined-print-and-e-book-nonfiction
+195,2020-02-01,Just Mercy,Bryan Stevenson,1,2020,2,combined-print-and-e-book-nonfiction
+196,2020-02-01,Educated,Tara Westover,2,2020,2,combined-print-and-e-book-nonfiction
+197,2020-02-01,Tightrope,Nicholas D. Kristof and Sheryl WuDunn,3,2020,2,combined-print-and-e-book-nonfiction
+198,2020-02-01,Running Against The Devil,Rick Wilson,4,2020,2,combined-print-and-e-book-nonfiction
+199,2020-02-01,Talking To Strangers,Malcolm Gladwell,5,2020,2,combined-print-and-e-book-nonfiction
+200,2020-02-01,Becoming,Michelle Obama,6,2020,2,combined-print-and-e-book-nonfiction
+201,2020-02-01,Uncanny Valley,Anna Wiener,7,2020,2,combined-print-and-e-book-nonfiction
+202,2020-02-01,Maybe You Should Talk To Someone,Lori Gottlieb,8,2020,2,combined-print-and-e-book-nonfiction
+203,2020-02-01,Catch And Kill,Ronan Farrow,9,2020,2,combined-print-and-e-book-nonfiction
+204,2020-02-01,The Body Keeps The Score,Bessel van der Kolk,10,2020,2,combined-print-and-e-book-nonfiction
+205,2020-02-01,Sapiens,Yuval Noah Harari,11,2020,2,combined-print-and-e-book-nonfiction
+206,2020-02-01,Why We Sleep,Matthew Walker,12,2020,2,combined-print-and-e-book-nonfiction
+207,2020-02-01,Say Nothing,Patrick Radden Keefe,13,2020,2,combined-print-and-e-book-nonfiction
+208,2020-02-01,American Oligarchs,Andrea Bernstein,14,2020,2,combined-print-and-e-book-nonfiction
+209,2020-02-01,The Body,Bill Bryson,15,2020,2,combined-print-and-e-book-nonfiction
+210,2020-03-01,Open Book,Jessica Simpson with Kevin Carr O’Leary,1,2020,3,combined-print-and-e-book-nonfiction
+211,2020-03-01,A Very Stable Genius,Philip Rucker and Carol Leonnig,2,2020,3,combined-print-and-e-book-nonfiction
+212,2020-03-01,Profiles In Corruption,Peter Schweizer,3,2020,3,combined-print-and-e-book-nonfiction
+213,2020-03-01,Educated,Tara Westover,4,2020,3,combined-print-and-e-book-nonfiction
+214,2020-03-01,On Tyranny,Timothy Snyder,5,2020,3,combined-print-and-e-book-nonfiction
+215,2020-03-01,Becoming,Michelle Obama,6,2020,3,combined-print-and-e-book-nonfiction
+216,2020-03-01,Just Mercy,Bryan Stevenson,7,2020,3,combined-print-and-e-book-nonfiction
+217,2020-03-01,Talking To Strangers,Malcolm Gladwell,8,2020,3,combined-print-and-e-book-nonfiction
+218,2020-03-01,Why We'Re Polarized,Ezra Klein,9,2020,3,combined-print-and-e-book-nonfiction
+219,2020-03-01,The Mamba Mentality,Kobe Bryant,10,2020,3,combined-print-and-e-book-nonfiction
+220,2020-03-01,Sapiens,Yuval Noah Harari,11,2020,3,combined-print-and-e-book-nonfiction
+221,2020-03-01,Maybe You Should Talk To Someone,Lori Gottlieb,12,2020,3,combined-print-and-e-book-nonfiction
+222,2020-03-01,The Body Keeps The Score,Bessel van der Kolk,13,2020,3,combined-print-and-e-book-nonfiction
+223,2020-03-01,White Fragility,Robin DiAngelo,14,2020,3,combined-print-and-e-book-nonfiction
+224,2020-03-01,To Shake The Sleeping Self,Jedidiah Jenkins,15,2020,3,combined-print-and-e-book-nonfiction
+225,2020-04-01,The Splendid And The Vile,Erik Larson,1,2020,4,combined-print-and-e-book-nonfiction
+226,2020-04-01,Untamed,Glennon Doyle,2,2020,4,combined-print-and-e-book-nonfiction
+227,2020-04-01,Educated,Tara Westover,3,2020,4,combined-print-and-e-book-nonfiction
+228,2020-04-01,Open Book,Jessica Simpson with Kevin Carr O’Leary,4,2020,4,combined-print-and-e-book-nonfiction
+229,2020-04-01,The Great Influenza,John M. Barry,5,2020,4,combined-print-and-e-book-nonfiction
+230,2020-04-01,The Mamba Mentality,Kobe Bryant,6,2020,4,combined-print-and-e-book-nonfiction
+231,2020-04-01,Becoming,Michelle Obama,7,2020,4,combined-print-and-e-book-nonfiction
+232,2020-04-01,The Gift Of Forgiveness,Katherine Schwarzenegger Pratt,8,2020,4,combined-print-and-e-book-nonfiction
+233,2020-04-01,Sapiens,Yuval Noah Harari,9,2020,4,combined-print-and-e-book-nonfiction
+234,2020-04-01,Maybe You Should Talk To Someone,Lori Gottlieb,10,2020,4,combined-print-and-e-book-nonfiction
+235,2020-04-01,Talking To Strangers,Malcolm Gladwell,11,2020,4,combined-print-and-e-book-nonfiction
+236,2020-04-01,Say Nothing,Patrick Radden Keefe,12,2020,4,combined-print-and-e-book-nonfiction
+237,2020-04-01,Just Mercy,Bryan Stevenson,13,2020,4,combined-print-and-e-book-nonfiction
+238,2020-04-01,Deadliest Enemy,Michael T. Osterholm and Mark Olshaker,14,2020,4,combined-print-and-e-book-nonfiction
+239,2020-04-01,John Adams Under Fire,Dan Abrams and David Fisher,15,2020,4,combined-print-and-e-book-nonfiction
+240,2020-05-01,Untamed,Glennon Doyle,1,2020,5,combined-print-and-e-book-nonfiction
+241,2020-05-01,The Splendid And The Vile,Erik Larson,2,2020,5,combined-print-and-e-book-nonfiction
+242,2020-05-01,The House Of Kennedy,James Patterson and Cynthia Fagen,3,2020,5,combined-print-and-e-book-nonfiction
+243,2020-05-01,Hidden Valley Road,Robert Kolker,4,2020,5,combined-print-and-e-book-nonfiction
+244,2020-05-01,Educated,Tara Westover,5,2020,5,combined-print-and-e-book-nonfiction
+245,2020-05-01,Front Row At The Trump Show,Jonathan Karl,6,2020,5,combined-print-and-e-book-nonfiction
+246,2020-05-01,The Great Influenza,John M. Barry,7,2020,5,combined-print-and-e-book-nonfiction
+247,2020-05-01,About Your Father And Other Celebrities I Have Known,Peggy Rowe,8,2020,5,combined-print-and-e-book-nonfiction
+248,2020-05-01,Sapiens,Yuval Noah Harari,9,2020,5,combined-print-and-e-book-nonfiction
+249,2020-05-01,Unorthodox,Deborah Feldman,10,2020,5,combined-print-and-e-book-nonfiction
+250,2020-05-01,Becoming,Michelle Obama,11,2020,5,combined-print-and-e-book-nonfiction
+251,2020-05-01,A Woman Of No Importance,Sonia Purnell,12,2020,5,combined-print-and-e-book-nonfiction
+252,2020-05-01,Fortitude,Dan Crenshaw,13,2020,5,combined-print-and-e-book-nonfiction
+253,2020-05-01,The Mamba Mentality,Kobe Bryant,14,2020,5,combined-print-and-e-book-nonfiction
+254,2020-05-01,Born A Crime,Trevor Noah,15,2020,5,combined-print-and-e-book-nonfiction
+255,2020-06-01,Untamed,Glennon Doyle,1,2020,6,combined-print-and-e-book-nonfiction
+256,2020-06-01,Becoming,Michelle Obama,2,2020,6,combined-print-and-e-book-nonfiction
+257,2020-06-01,Plague Of Corruption,Judy Mikovits and Kent Heckenlively,3,2020,6,combined-print-and-e-book-nonfiction
+258,2020-06-01,The Splendid And The Vile,Erik Larson,4,2020,6,combined-print-and-e-book-nonfiction
+259,2020-06-01,The Great Influenza,John M. Barry,5,2020,6,combined-print-and-e-book-nonfiction
+260,2020-06-01,The Chiffon Trenches,André Leon Talley,6,2020,6,combined-print-and-e-book-nonfiction
+261,2020-06-01,Educated,Tara Westover,7,2020,6,combined-print-and-e-book-nonfiction
+262,2020-06-01,Hidden Valley Road,Robert Kolker,8,2020,6,combined-print-and-e-book-nonfiction
+263,2020-06-01,A Woman Of No Importance,Sonia Purnell,9,2020,6,combined-print-and-e-book-nonfiction
+264,2020-06-01,The Library Book,Susan Orlean,10,2020,6,combined-print-and-e-book-nonfiction
+265,2020-06-01,American Crusade,Pete Hegseth,11,2020,6,combined-print-and-e-book-nonfiction
+266,2020-06-01,The Body Keeps The Score,Bessel van der Kolk,12,2020,6,combined-print-and-e-book-nonfiction
+267,2020-06-01,The Mamba Mentality,Kobe Bryant,13,2020,6,combined-print-and-e-book-nonfiction
+268,2020-06-01,Sapiens,Yuval Noah Harari,14,2020,6,combined-print-and-e-book-nonfiction
+269,2020-06-01,The World,Richard Haass,15,2020,6,combined-print-and-e-book-nonfiction
+270,2020-07-01,How To Be An Antiracist,Ibram X. Kendi,1,2020,7,combined-print-and-e-book-nonfiction
+271,2020-07-01,White Fragility,Robin DiAngelo,2,2020,7,combined-print-and-e-book-nonfiction
+272,2020-07-01,So You Want To Talk About Race,Ijeoma Oluo,3,2020,7,combined-print-and-e-book-nonfiction
+273,2020-07-01,Countdown 1945,Chris Wallace with Mitch Weiss,4,2020,7,combined-print-and-e-book-nonfiction
+274,2020-07-01,The Color Of Law,Richard Rothstein,5,2020,7,combined-print-and-e-book-nonfiction
+275,2020-07-01,Stamped From The Beginning,Ibram X. Kendi,6,2020,7,combined-print-and-e-book-nonfiction
+276,2020-07-01,Why Are All The Black Kids Sitting Together In The Cafeteria?,Beverly Daniel Tatum,7,2020,7,combined-print-and-e-book-nonfiction
+277,2020-07-01,Untamed,Glennon Doyle,8,2020,7,combined-print-and-e-book-nonfiction
+278,2020-07-01,Me And White Supremacy,Layla F. Saad,9,2020,7,combined-print-and-e-book-nonfiction
+279,2020-07-01,The Splendid And The Vile,Erik Larson,10,2020,7,combined-print-and-e-book-nonfiction
+280,2020-07-01,I'M Still Here,Austin Channing Brown,11,2020,7,combined-print-and-e-book-nonfiction
+281,2020-07-01,The New Jim Crow,Michelle Alexander,12,2020,7,combined-print-and-e-book-nonfiction
+282,2020-07-01,Just Mercy,Bryan Stevenson,13,2020,7,combined-print-and-e-book-nonfiction
+283,2020-07-01,Between The World And Me,Ta-Nehisi Coates,14,2020,7,combined-print-and-e-book-nonfiction
+284,2020-07-01,Becoming,Michelle Obama,15,2020,7,combined-print-and-e-book-nonfiction
+285,2020-08-01,Too Much And Never Enough,Mary L. Trump,1,2020,8,combined-print-and-e-book-nonfiction
+286,2020-08-01,White Fragility,Robin DiAngelo,2,2020,8,combined-print-and-e-book-nonfiction
+287,2020-08-01,How To Be An Antiracist,Ibram X. Kendi,3,2020,8,combined-print-and-e-book-nonfiction
+288,2020-08-01,The Room Where It Happened,John Bolton,4,2020,8,combined-print-and-e-book-nonfiction
+289,2020-08-01,Untamed,Glennon Doyle,5,2020,8,combined-print-and-e-book-nonfiction
+290,2020-08-01,Alexander Hamilton,Ron Chernow,6,2020,8,combined-print-and-e-book-nonfiction
+291,2020-08-01,Begin Again,Eddie S. Glaude Jr.,7,2020,8,combined-print-and-e-book-nonfiction
+292,2020-08-01,So You Want To Talk About Race,Ijeoma Oluo,8,2020,8,combined-print-and-e-book-nonfiction
+293,2020-08-01,The Color Of Law,Richard Rothstein,9,2020,8,combined-print-and-e-book-nonfiction
+294,2020-08-01,The Splendid And The Vile,Erik Larson,10,2020,8,combined-print-and-e-book-nonfiction
+295,2020-08-01,A Very Punchable Face,Colin Jost,11,2020,8,combined-print-and-e-book-nonfiction
+296,2020-08-01,The New Jim Crow,Michelle Alexander,12,2020,8,combined-print-and-e-book-nonfiction
+297,2020-08-01,Me And White Supremacy,Layla F. Saad,13,2020,8,combined-print-and-e-book-nonfiction
+298,2020-08-01,Just Mercy,Bryan Stevenson,14,2020,8,combined-print-and-e-book-nonfiction
+299,2020-08-01,Stamped From The Beginning,Ibram X. Kendi,15,2020,8,combined-print-and-e-book-nonfiction
+300,2020-09-01,Untamed,Glennon Doyle,1,2020,9,combined-print-and-e-book-nonfiction
+301,2020-09-01,Live Free Or Die,Sean Hannity,2,2020,9,combined-print-and-e-book-nonfiction
+302,2020-09-01,Caste,Isabel Wilkerson,3,2020,9,combined-print-and-e-book-nonfiction
+303,2020-09-01,Just Mercy,Bryan Stevenson,4,2020,9,combined-print-and-e-book-nonfiction
+304,2020-09-01,Too Much And Never Enough,Mary L. Trump,5,2020,9,combined-print-and-e-book-nonfiction
+305,2020-09-01,How To Be An Antiracist,Ibram X. Kendi,6,2020,9,combined-print-and-e-book-nonfiction
+306,2020-09-01,White Fragility,Robin DiAngelo,7,2020,9,combined-print-and-e-book-nonfiction
+307,2020-09-01,Live In Love,Lauren Akins with Mark Dagostino,8,2020,9,combined-print-and-e-book-nonfiction
+308,2020-09-01,Becoming,Michelle Obama,9,2020,9,combined-print-and-e-book-nonfiction
+309,2020-09-01,The Answer Is ...,Alex Trebek,10,2020,9,combined-print-and-e-book-nonfiction
+310,2020-09-01,Finding Freedom,Omid Scobie and Carolyn Durand,11,2020,9,combined-print-and-e-book-nonfiction
+311,2020-09-01,Educated,Tara Westover,12,2020,9,combined-print-and-e-book-nonfiction
+312,2020-09-01,The Warmth Of Other Suns,Isabel Wilkerson,13,2020,9,combined-print-and-e-book-nonfiction
+313,2020-09-01,It Was All A Lie,Stuart Stevens,14,2020,9,combined-print-and-e-book-nonfiction
+314,2020-09-01,So You Want To Talk About Race,Ijeoma Oluo,15,2020,9,combined-print-and-e-book-nonfiction
+315,2020-10-01,Rage,Bob Woodward,1,2020,10,combined-print-and-e-book-nonfiction
+316,2020-10-01,Blackout,Candace Owens,2,2020,10,combined-print-and-e-book-nonfiction
+317,2020-10-01,Disloyal,Michael Cohen,3,2020,10,combined-print-and-e-book-nonfiction
+318,2020-10-01,Killing Crazy Horse,Bill O'Reilly and Martin Dugard,4,2020,10,combined-print-and-e-book-nonfiction
+319,2020-10-01,Caste,Isabel Wilkerson,5,2020,10,combined-print-and-e-book-nonfiction
+320,2020-10-01,Compromised,Peter Strzok,6,2020,10,combined-print-and-e-book-nonfiction
+321,2020-10-01,Untamed,Glennon Doyle,7,2020,10,combined-print-and-e-book-nonfiction
+322,2020-10-01,Speaking For Myself,Sarah Huckabee Sanders,8,2020,10,combined-print-and-e-book-nonfiction
+323,2020-10-01,Everything Beautiful In Its Time,Jenna Bush Hager,9,2020,10,combined-print-and-e-book-nonfiction
+324,2020-10-01,Live Free Or Die,Sean Hannity,10,2020,10,combined-print-and-e-book-nonfiction
+325,2020-10-01,Too Much And Never Enough,Mary L. Trump,11,2020,10,combined-print-and-e-book-nonfiction
+326,2020-10-01,White Fragility,Robin DiAngelo,12,2020,10,combined-print-and-e-book-nonfiction
+327,2020-10-01,How To Be An Antiracist,Ibram X. Kendi,13,2020,10,combined-print-and-e-book-nonfiction
+328,2020-10-01,Melania And Me,Stephanie Winston Wolkoff,14,2020,10,combined-print-and-e-book-nonfiction
+329,2020-10-01,So You Want To Talk About Race,Ijeoma Oluo,15,2020,10,combined-print-and-e-book-nonfiction
+330,2020-11-01,Caste,Isabel Wilkerson,1,2020,11,combined-print-and-e-book-nonfiction
+331,2020-11-01,Is This Anything?,Jerry Seinfeld,2,2020,11,combined-print-and-e-book-nonfiction
+332,2020-11-01,Untamed,Glennon Doyle,3,2020,11,combined-print-and-e-book-nonfiction
+333,2020-11-01,Killing Crazy Horse,Bill O'Reilly and Martin Dugard,4,2020,11,combined-print-and-e-book-nonfiction
+334,2020-11-01,Blackout,Candace Owens,5,2020,11,combined-print-and-e-book-nonfiction
+335,2020-11-01,Rage,Bob Woodward,6,2020,11,combined-print-and-e-book-nonfiction
+336,2020-11-01,American Crisis,Andrew Cuomo,7,2020,11,combined-print-and-e-book-nonfiction
+337,2020-11-01,Ten Lessons For A Post-Pandemic World,Fareed Zakaria,8,2020,11,combined-print-and-e-book-nonfiction
+338,2020-11-01,Humans,Brandon Stanton,9,2020,11,combined-print-and-e-book-nonfiction
+339,2020-11-01,White Fragility,Robin DiAngelo,10,2020,11,combined-print-and-e-book-nonfiction
+340,2020-11-01,One Vote Away,Ted Cruz,11,2020,11,combined-print-and-e-book-nonfiction
+341,2020-11-01,How To Be An Antiracist,Ibram X. Kendi,12,2020,11,combined-print-and-e-book-nonfiction
+342,2020-11-01,The Meaning Of Mariah Carey,Mariah Carey with Michaela Angela Davis,13,2020,11,combined-print-and-e-book-nonfiction
+343,2020-11-01,Disloyal,Michael Cohen,14,2020,11,combined-print-and-e-book-nonfiction
+344,2020-11-01,Trumpty Dumpty Wanted A Crown,John Lithgow,15,2020,11,combined-print-and-e-book-nonfiction
+345,2020-12-01,A Promised Land,Barack Obama,1,2020,12,combined-print-and-e-book-nonfiction
+346,2020-12-01,Greenlights,Matthew McConaughey,2,2020,12,combined-print-and-e-book-nonfiction
+347,2020-12-01,"Dolly Parton, Songteller",Dolly Parton with Robert K. Oermann,3,2020,12,combined-print-and-e-book-nonfiction
+348,2020-12-01,No Time Like The Future,Michael J. Fox,4,2020,12,combined-print-and-e-book-nonfiction
+349,2020-12-01,Frontier Follies,Ree Drummond,5,2020,12,combined-print-and-e-book-nonfiction
+350,2020-12-01,Becoming,Michelle Obama,6,2020,12,combined-print-and-e-book-nonfiction
+351,2020-12-01,Caste,Isabel Wilkerson,7,2020,12,combined-print-and-e-book-nonfiction
+352,2020-12-01,Untamed,Glennon Doyle,8,2020,12,combined-print-and-e-book-nonfiction
+353,2020-12-01,The Answer Is ...,Alex Trebek,9,2020,12,combined-print-and-e-book-nonfiction
+354,2020-12-01,Hrh,Elizabeth Holmes,10,2020,12,combined-print-and-e-book-nonfiction
+355,2020-12-01,The Best Of Me,David Sedaris,11,2020,12,combined-print-and-e-book-nonfiction
+356,2020-12-01,Uncomfortable Conversations With A Black Man,Emmanuel Acho,12,2020,12,combined-print-and-e-book-nonfiction
+357,2020-12-01,First Principles,Thomas E. Ricks,13,2020,12,combined-print-and-e-book-nonfiction
+358,2020-12-01,My Own Words,Ruth Bader Ginsburg with Mary Hartnett and Wendy W. Williams,14,2020,12,combined-print-and-e-book-nonfiction
+359,2020-12-01,Humans,Brandon Stanton,15,2020,12,combined-print-and-e-book-nonfiction
+360,2021-01-01,A Promised Land,Barack Obama,1,2021,1,combined-print-and-e-book-nonfiction
+361,2021-01-01,Greenlights,Matthew McConaughey,2,2021,1,combined-print-and-e-book-nonfiction
+362,2021-01-01,Humans,Brandon Stanton,3,2021,1,combined-print-and-e-book-nonfiction
+363,2021-01-01,Bag Man,Rachel Maddow and Michael Yarvitz,4,2021,1,combined-print-and-e-book-nonfiction
+364,2021-01-01,Caste,Isabel Wilkerson,5,2021,1,combined-print-and-e-book-nonfiction
+365,2021-01-01,Becoming,Michelle Obama,6,2021,1,combined-print-and-e-book-nonfiction
+366,2021-01-01,World Of Wonders,Aimee Nezhukumatathil,7,2021,1,combined-print-and-e-book-nonfiction
+367,2021-01-01,Untamed,Glennon Doyle,8,2021,1,combined-print-and-e-book-nonfiction
+368,2021-01-01,The Last Days Of John Lennon,James Patterson with Casey Sherman and Dave Wedge,9,2021,1,combined-print-and-e-book-nonfiction
+369,2021-01-01,The Splendid And The Vile,Erik Larson,10,2021,1,combined-print-and-e-book-nonfiction
+370,2021-01-01,Is This Anything?,Jerry Seinfeld,11,2021,1,combined-print-and-e-book-nonfiction
+371,2021-01-01,My Own Words,Ruth Bader Ginsburg with Mary Hartnett and Wendy W. Williams,12,2021,1,combined-print-and-e-book-nonfiction
+372,2021-01-01,Killing Crazy Horse,Bill O'Reilly and Martin Dugard,13,2021,1,combined-print-and-e-book-nonfiction
+373,2021-01-01,The Mamba Mentality,Kobe Bryant,14,2021,1,combined-print-and-e-book-nonfiction
+374,2021-01-01,The Answer Is ...,Alex Trebek,15,2021,1,combined-print-and-e-book-nonfiction
+375,2021-02-01,A Promised Land,Barack Obama,1,2021,2,combined-print-and-e-book-nonfiction
+376,2021-02-01,Caste,Isabel Wilkerson,2,2021,2,combined-print-and-e-book-nonfiction
+377,2021-02-01,Greenlights,Matthew McConaughey,3,2021,2,combined-print-and-e-book-nonfiction
+378,2021-02-01,Untamed,Glennon Doyle,4,2021,2,combined-print-and-e-book-nonfiction
+379,2021-02-01,On Tyranny,Timothy Snyder,5,2021,2,combined-print-and-e-book-nonfiction
+380,2021-02-01,Becoming,Michelle Obama,6,2021,2,combined-print-and-e-book-nonfiction
+381,2021-02-01,The Body Keeps The Score,Bessel van der Kolk,7,2021,2,combined-print-and-e-book-nonfiction
+382,2021-02-01,Born A Crime,Trevor Noah,8,2021,2,combined-print-and-e-book-nonfiction
+383,2021-02-01,The Truths We Hold,Kamala Harris,9,2021,2,combined-print-and-e-book-nonfiction
+384,2021-02-01,A Swim In A Pond In The Rain,George Saunders,10,2021,2,combined-print-and-e-book-nonfiction
+385,2021-02-01,How To Be An Antiracist,Ibram X. Kendi,11,2021,2,combined-print-and-e-book-nonfiction
+386,2021-02-01,Breath,James Nestor,12,2021,2,combined-print-and-e-book-nonfiction
+387,2021-02-01,White Fragility,Robin DiAngelo,13,2021,2,combined-print-and-e-book-nonfiction
+388,2021-02-01,Braiding Sweetgrass,Robin Wall Kimmerer,14,2021,2,combined-print-and-e-book-nonfiction
+389,2021-02-01,Between The World And Me,Ta-Nehisi Coates,15,2021,2,combined-print-and-e-book-nonfiction
+390,2021-03-01,How To Avoid A Climate Disaster,Bill Gates,1,2021,3,combined-print-and-e-book-nonfiction
+391,2021-03-01,Just As I Am,Cicely Tyson with Michelle Burford,2,2021,3,combined-print-and-e-book-nonfiction
+392,2021-03-01,The Sum Of Us,Heather McGhee,3,2021,3,combined-print-and-e-book-nonfiction
+393,2021-03-01,Walk In My Combat Boots,James Patterson and Matt Eversmann with Chris Mooney,4,2021,3,combined-print-and-e-book-nonfiction
+394,2021-03-01,Caste,Isabel Wilkerson,5,2021,3,combined-print-and-e-book-nonfiction
+395,2021-03-01,A Promised Land,Barack Obama,6,2021,3,combined-print-and-e-book-nonfiction
+396,2021-03-01,Between Two Kingdoms,Suleika Jaouad,7,2021,3,combined-print-and-e-book-nonfiction
+397,2021-03-01,Greenlights,Matthew McConaughey,8,2021,3,combined-print-and-e-book-nonfiction
+398,2021-03-01,Untamed,Glennon Doyle,9,2021,3,combined-print-and-e-book-nonfiction
+399,2021-03-01,Think Again,Adam Grant,10,2021,3,combined-print-and-e-book-nonfiction
+400,2021-03-01,The Body Keeps The Score,Bessel van der Kolk,11,2021,3,combined-print-and-e-book-nonfiction
+401,2021-03-01,Four Hundred Souls,ted by Ibram X. Kendi and Keisha N. Blain,12,2021,3,combined-print-and-e-book-nonfiction
+402,2021-03-01,The Daughters Of Kobani,Gayle Tzemach Lemmon,13,2021,3,combined-print-and-e-book-nonfiction
+403,2021-03-01,The Black Church,"Henry Louis Gates, Jr.",14,2021,3,combined-print-and-e-book-nonfiction
+404,2021-03-01,Unmasked,Andy Ngo,15,2021,3,combined-print-and-e-book-nonfiction
+405,2021-04-01,This Is The Fire,Don Lemon,1,2021,4,combined-print-and-e-book-nonfiction
+406,2021-04-01,The Code Breaker,Walter Isaacson,2,2021,4,combined-print-and-e-book-nonfiction
+407,2021-04-01,Greenlights,Matthew McConaughey,3,2021,4,combined-print-and-e-book-nonfiction
+408,2021-04-01,Caste,Isabel Wilkerson,4,2021,4,combined-print-and-e-book-nonfiction
+409,2021-04-01,How To Avoid A Climate Disaster,Bill Gates,5,2021,4,combined-print-and-e-book-nonfiction
+410,2021-04-01,The Body Keeps The Score,Bessel van der Kolk,6,2021,4,combined-print-and-e-book-nonfiction
+411,2021-04-01,Becoming,Michelle Obama,7,2021,4,combined-print-and-e-book-nonfiction
+412,2021-04-01,Untamed,Glennon Doyle,8,2021,4,combined-print-and-e-book-nonfiction
+413,2021-04-01,A Promised Land,Barack Obama,9,2021,4,combined-print-and-e-book-nonfiction
+414,2021-04-01,Think Again,Adam Grant,10,2021,4,combined-print-and-e-book-nonfiction
+415,2021-04-01,The Sum Of Us,Heather McGhee,11,2021,4,combined-print-and-e-book-nonfiction
+416,2021-04-01,Just As I Am,Cicely Tyson with Michelle Burford,12,2021,4,combined-print-and-e-book-nonfiction
+417,2021-04-01,Nomadland,Jessica Bruder,13,2021,4,combined-print-and-e-book-nonfiction
+418,2021-04-01,Uncomfortable Conversations With A Black Man,Emmanuel Acho,14,2021,4,combined-print-and-e-book-nonfiction
+419,2021-04-01,Walk In My Combat Boots,James Patterson and Matt Eversmann with Chris Mooney,15,2021,4,combined-print-and-e-book-nonfiction
+420,2021-05-01,On The House,John Boehner,1,2021,5,combined-print-and-e-book-nonfiction
+421,2021-05-01,Empire Of Pain,Patrick Radden Keefe,2,2021,5,combined-print-and-e-book-nonfiction
+422,2021-05-01,The Code Breaker,Walter Isaacson,3,2021,5,combined-print-and-e-book-nonfiction
+423,2021-05-01,Broken Horses,Brandi Carlile,4,2021,5,combined-print-and-e-book-nonfiction
+424,2021-05-01,The Body Keeps The Score,Bessel van der Kolk,5,2021,5,combined-print-and-e-book-nonfiction
+425,2021-05-01,Greenlights,Matthew McConaughey,6,2021,5,combined-print-and-e-book-nonfiction
+426,2021-05-01,Caste,Isabel Wilkerson,7,2021,5,combined-print-and-e-book-nonfiction
+427,2021-05-01,Broken,Jenny Lawson,8,2021,5,combined-print-and-e-book-nonfiction
+428,2021-05-01,Untamed,Glennon Doyle,9,2021,5,combined-print-and-e-book-nonfiction
+429,2021-05-01,Beautiful Things,Hunter Biden,10,2021,5,combined-print-and-e-book-nonfiction
+430,2021-05-01,Finding Freedom,Erin French,11,2021,5,combined-print-and-e-book-nonfiction
+431,2021-05-01,Think Again,Adam Grant,12,2021,5,combined-print-and-e-book-nonfiction
+432,2021-05-01,The God Equation,Michio Kaku,13,2021,5,combined-print-and-e-book-nonfiction
+433,2021-05-01,Becoming,Michelle Obama,14,2021,5,combined-print-and-e-book-nonfiction
+434,2021-05-01,The Body,Bill Bryson,15,2021,5,combined-print-and-e-book-nonfiction
+435,2021-06-01,The Anthropocene Reviewed,John Green,1,2021,6,combined-print-and-e-book-nonfiction
+436,2021-06-01,Zero Fail,Carol Leonnig,2,2021,6,combined-print-and-e-book-nonfiction
+437,2021-06-01,Killing The Mob,Bill O'Reilly and Martin Dugard,3,2021,6,combined-print-and-e-book-nonfiction
+438,2021-06-01,Noise,"Daniel Kahneman, Olivier Sibony and Cass R. Sunstein",4,2021,6,combined-print-and-e-book-nonfiction
+439,2021-06-01,What Happened To You?,Bruce D. Perry and Oprah Winfrey,5,2021,6,combined-print-and-e-book-nonfiction
+440,2021-06-01,The Premonition,Michael Lewis,6,2021,6,combined-print-and-e-book-nonfiction
+441,2021-06-01,Yearbook,Seth Rogen,7,2021,6,combined-print-and-e-book-nonfiction
+442,2021-06-01,The Body Keeps The Score,Bessel van der Kolk,8,2021,6,combined-print-and-e-book-nonfiction
+443,2021-06-01,Greenlights,Matthew McConaughey,9,2021,6,combined-print-and-e-book-nonfiction
+444,2021-06-01,The Bomber Mafia,Malcolm Gladwell,10,2021,6,combined-print-and-e-book-nonfiction
+445,2021-06-01,Facing The Mountain,Daniel James Brown,11,2021,6,combined-print-and-e-book-nonfiction
+446,2021-06-01,Untamed,Glennon Doyle,12,2021,6,combined-print-and-e-book-nonfiction
+447,2021-06-01,Caste,Isabel Wilkerson,13,2021,6,combined-print-and-e-book-nonfiction
+448,2021-06-01,Killers Of The Flower Moon,David Grann,14,2021,6,combined-print-and-e-book-nonfiction
+449,2021-06-01,Think Again,Adam Grant,15,2021,6,combined-print-and-e-book-nonfiction
+450,2021-07-01,Killing The Mob,Bill O'Reilly and Martin Dugard,1,2021,7,combined-print-and-e-book-nonfiction
+451,2021-07-01,Live Your Life,Amanda Kloots with Anna Kloots,2,2021,7,combined-print-and-e-book-nonfiction
+452,2021-07-01,The Body Keeps The Score,Bessel van der Kolk,3,2021,7,combined-print-and-e-book-nonfiction
+453,2021-07-01,Greenlights,Matthew McConaughey,4,2021,7,combined-print-and-e-book-nonfiction
+454,2021-07-01,The Bomber Mafia,Malcolm Gladwell,5,2021,7,combined-print-and-e-book-nonfiction
+455,2021-07-01,The Premonition,Michael Lewis,6,2021,7,combined-print-and-e-book-nonfiction
+456,2021-07-01,Untamed,Glennon Doyle,7,2021,7,combined-print-and-e-book-nonfiction
+457,2021-07-01,What Happened To You?,Bruce D. Perry and Oprah Winfrey,8,2021,7,combined-print-and-e-book-nonfiction
+458,2021-07-01,Born A Crime,Trevor Noah,9,2021,7,combined-print-and-e-book-nonfiction
+459,2021-07-01,On Juneteenth,Annette Gordon-Reed,10,2021,7,combined-print-and-e-book-nonfiction
+460,2021-07-01,How The Word Is Passed,Clint Smith,11,2021,7,combined-print-and-e-book-nonfiction
+461,2021-07-01,In The Heights: Finding Home,"Lin-Manuel Miranda, Quiara Alegría Hudes and Jeremy McCarter",12,2021,7,combined-print-and-e-book-nonfiction
+462,2021-07-01,Caste,Isabel Wilkerson,13,2021,7,combined-print-and-e-book-nonfiction
+463,2021-07-01,The Anthropocene Reviewed,John Green,14,2021,7,combined-print-and-e-book-nonfiction
+464,2021-07-01,Somebody'S Daughter,Ashley C. Ford,15,2021,7,combined-print-and-e-book-nonfiction
+465,2021-08-01,American Marxism,Mark R. Levin,1,2021,8,combined-print-and-e-book-nonfiction
+466,2021-08-01,Landslide,Michael Wolff,2,2021,8,combined-print-and-e-book-nonfiction
+467,2021-08-01,"Frankly, We Did Win This Election",Michael C. Bender,3,2021,8,combined-print-and-e-book-nonfiction
+468,2021-08-01,How I Saved The World,Jesse Watters,4,2021,8,combined-print-and-e-book-nonfiction
+469,2021-08-01,The Body Keeps The Score,Bessel van der Kolk,5,2021,8,combined-print-and-e-book-nonfiction
+470,2021-08-01,This Is Your Mind On Plants,Michael Pollan,6,2021,8,combined-print-and-e-book-nonfiction
+471,2021-08-01,Killing The Mob,Bill O'Reilly and Martin Dugard,7,2021,8,combined-print-and-e-book-nonfiction
+472,2021-08-01,What Happened To You?,Bruce D. Perry and Oprah Winfrey,8,2021,8,combined-print-and-e-book-nonfiction
+473,2021-08-01,Untamed,Glennon Doyle,9,2021,8,combined-print-and-e-book-nonfiction
+474,2021-08-01,Greenlights,Matthew McConaughey,10,2021,8,combined-print-and-e-book-nonfiction
+475,2021-08-01,An Ugly Truth,Sheera Frenkel and Cecilia Kang,11,2021,8,combined-print-and-e-book-nonfiction
+476,2021-08-01,Caste,Isabel Wilkerson,12,2021,8,combined-print-and-e-book-nonfiction
+477,2021-08-01,Trejo,Danny Trejo with Donal Logue,13,2021,8,combined-print-and-e-book-nonfiction
+478,2021-08-01,Crying In H Mart,Michelle Zauner,14,2021,8,combined-print-and-e-book-nonfiction
+479,2021-08-01,Braiding Sweetgrass,Robin Wall Kimmerer,15,2021,8,combined-print-and-e-book-nonfiction
+480,2021-09-01,American Marxism,Mark R. Levin,1,2021,9,combined-print-and-e-book-nonfiction
+481,2021-09-01,"Woke, Inc.",Vivek Ramaswamy,2,2021,9,combined-print-and-e-book-nonfiction
+482,2021-09-01,The Reckoning,Mary L. Trump,3,2021,9,combined-print-and-e-book-nonfiction
+483,2021-09-01,The Long Slide,Tucker Carlson,4,2021,9,combined-print-and-e-book-nonfiction
+484,2021-09-01,The Body Keeps The Score,Bessel van der Kolk,5,2021,9,combined-print-and-e-book-nonfiction
+485,2021-09-01,All In,Billie Jean King with Johnette Howard and Maryanne Vollers,6,2021,9,combined-print-and-e-book-nonfiction
+486,2021-09-01,I Alone Can Fix It,Carol Leonnig and Philip Rucker,7,2021,9,combined-print-and-e-book-nonfiction
+487,2021-09-01,Greenlights,Matthew McConaughey,8,2021,9,combined-print-and-e-book-nonfiction
+488,2021-09-01,Untamed,Glennon Doyle,9,2021,9,combined-print-and-e-book-nonfiction
+489,2021-09-01,Braiding Sweetgrass,Robin Wall Kimmerer,10,2021,9,combined-print-and-e-book-nonfiction
+490,2021-09-01,Caste,Isabel Wilkerson,11,2021,9,combined-print-and-e-book-nonfiction
+491,2021-09-01,Sapiens,Yuval Noah Harari,12,2021,9,combined-print-and-e-book-nonfiction
+492,2021-09-01,What Happened To You?,Bruce D. Perry and Oprah Winfrey,13,2021,9,combined-print-and-e-book-nonfiction
+493,2021-09-01,The Premonition,Michael Lewis,14,2021,9,combined-print-and-e-book-nonfiction
+494,2021-09-01,Crying In H Mart,Michelle Zauner,15,2021,9,combined-print-and-e-book-nonfiction
+495,2021-10-01,American Marxism,Mark R. Levin,1,2021,10,combined-print-and-e-book-nonfiction
+496,2021-10-01,Countdown Bin Laden,Chris Wallace with Mitch Weiss,2,2021,10,combined-print-and-e-book-nonfiction
+497,2021-10-01,A Hunter-Gatherer'S Guide To The 21St Century,Heather Heying and Bret Weinstein,3,2021,10,combined-print-and-e-book-nonfiction
+498,2021-10-01,Fuzz,Mary Roach,4,2021,10,combined-print-and-e-book-nonfiction
+499,2021-10-01,The Body Keeps The Score,Bessel van der Kolk,5,2021,10,combined-print-and-e-book-nonfiction
+500,2021-10-01,Unbound,Tarana Burke,6,2021,10,combined-print-and-e-book-nonfiction
+501,2021-10-01,You Got Anything Stronger?,Gabrielle Union with Kevin Carr O’Leary,7,2021,10,combined-print-and-e-book-nonfiction
+502,2021-10-01,Wildland,Evan Osnos,8,2021,10,combined-print-and-e-book-nonfiction
+503,2021-10-01,Where Tomorrows Aren'T Promised,Carmelo Anthony with D. Watkins,9,2021,10,combined-print-and-e-book-nonfiction
+504,2021-10-01,Braiding Sweetgrass,Robin Wall Kimmerer,10,2021,10,combined-print-and-e-book-nonfiction
+505,2021-10-01,The Long Slide,Tucker Carlson,11,2021,10,combined-print-and-e-book-nonfiction
+506,2021-10-01,Travels With George,Nathaniel Philbrick,12,2021,10,combined-print-and-e-book-nonfiction
+507,2021-10-01,What Happened To You?,Bruce D. Perry and Oprah Winfrey,13,2021,10,combined-print-and-e-book-nonfiction
+508,2021-10-01,Beautiful Country,Qian Julie Wang,14,2021,10,combined-print-and-e-book-nonfiction
+509,2021-10-01,The Dressmakers Of Auschwitz,Lucy Adlington,15,2021,10,combined-print-and-e-book-nonfiction
+510,2021-11-01,Not All Diamonds And Rosé,Dave Quinn,1,2021,11,combined-print-and-e-book-nonfiction
+511,2021-11-01,To Rescue The Republic,Bret Baier with Catherine Whitney,2,2021,11,combined-print-and-e-book-nonfiction
+512,2021-11-01,The Storyteller,Dave Grohl,3,2021,11,combined-print-and-e-book-nonfiction
+513,2021-11-01,Peril,Bob Woodward and Robert Costa,4,2021,11,combined-print-and-e-book-nonfiction
+514,2021-11-01,Midnight In Washington,Adam Schiff,5,2021,11,combined-print-and-e-book-nonfiction
+515,2021-11-01,The Boys,Ron Howard and Clint Howard,6,2021,11,combined-print-and-e-book-nonfiction
+516,2021-11-01,E.R. Nurses,James Patterson and Matt Eversmann with Chris Mooney,7,2021,11,combined-print-and-e-book-nonfiction
+517,2021-11-01,The Body Keeps The Score,Bessel van der Kolk,8,2021,11,combined-print-and-e-book-nonfiction
+518,2021-11-01,Vanderbilt,Anderson Cooper and Katherine Howe,9,2021,11,combined-print-and-e-book-nonfiction
+519,2021-11-01,Taste,Stanley Tucci,10,2021,11,combined-print-and-e-book-nonfiction
+520,2021-11-01,The First 21,Frank Feranna and Nikki Sixx,11,2021,11,combined-print-and-e-book-nonfiction
+521,2021-11-01,The Book Of Hope,Jane Goodall and Douglas Abrams with Gail Hudson,12,2021,11,combined-print-and-e-book-nonfiction
+522,2021-11-01,American Marxism,Mark R. Levin,13,2021,11,combined-print-and-e-book-nonfiction
+523,2021-11-01,Maid,Stephanie Land,14,2021,11,combined-print-and-e-book-nonfiction
+524,2021-11-01,The Beatles: Get Back,the Beatles,15,2021,11,combined-print-and-e-book-nonfiction
+525,2021-12-01,The 1619 Project,"ted by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",1,2021,12,combined-print-and-e-book-nonfiction
+526,2021-12-01,All American Christmas,Rachel Campos-Duffy and Sean Duffy,2,2021,12,combined-print-and-e-book-nonfiction
+527,2021-12-01,Betrayal,Jonathan Karl,3,2021,12,combined-print-and-e-book-nonfiction
+528,2021-12-01,Will,Will Smith with Mark Manson,4,2021,12,combined-print-and-e-book-nonfiction
+529,2021-12-01,The Real Anthony Fauci,Robert F. Kennedy Jr,5,2021,12,combined-print-and-e-book-nonfiction
+530,2021-12-01,The Lyrics: 1956 To The Present,Paul McCartney,6,2021,12,combined-print-and-e-book-nonfiction
+531,2021-12-01,The Storyteller,Dave Grohl,7,2021,12,combined-print-and-e-book-nonfiction
+532,2021-12-01,The President And The Freedom Fighter,Brian Kilmeade,8,2021,12,combined-print-and-e-book-nonfiction
+533,2021-12-01,The Dawn Of Everything,David Graeber and David Wengrow,9,2021,12,combined-print-and-e-book-nonfiction
+534,2021-12-01,Welcome To Dunder Mifflin,Brian Baumgartner and Ben Silverman,10,2021,12,combined-print-and-e-book-nonfiction
+535,2021-12-01,The Body Keeps The Score,Bessel van der Kolk,11,2021,12,combined-print-and-e-book-nonfiction
+536,2021-12-01,Taste,Stanley Tucci,12,2021,12,combined-print-and-e-book-nonfiction
+537,2021-12-01,The House Of Gucci,Sara Gay Forden,13,2021,12,combined-print-and-e-book-nonfiction
+538,2021-12-01,Going There,Katie Couric,14,2021,12,combined-print-and-e-book-nonfiction
+539,2021-12-01,Renegades,Barack Obama and Bruce Springsteen,15,2021,12,combined-print-and-e-book-nonfiction
+540,2022-01-01,The 1619 Project,"ted by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",1,2022,1,combined-print-and-e-book-nonfiction
+541,2022-01-01,The Storyteller,Dave Grohl,2,2022,1,combined-print-and-e-book-nonfiction
+542,2022-01-01,Will,Will Smith with Mark Manson,3,2022,1,combined-print-and-e-book-nonfiction
+543,2022-01-01,The Lyrics: 1956 To The Present,Paul McCartney,4,2022,1,combined-print-and-e-book-nonfiction
+544,2022-01-01,Taste,Stanley Tucci,5,2022,1,combined-print-and-e-book-nonfiction
+545,2022-01-01,All American Christmas,Rachel Campos-Duffy and Sean Duffy,6,2022,1,combined-print-and-e-book-nonfiction
+546,2022-01-01,The President And The Freedom Fighter,Brian Kilmeade,7,2022,1,combined-print-and-e-book-nonfiction
+547,2022-01-01,All About Love,bell hooks,8,2022,1,combined-print-and-e-book-nonfiction
+548,2022-01-01,The Beatles: Get Back,the Beatles,9,2022,1,combined-print-and-e-book-nonfiction
+549,2022-01-01,The Body Keeps The Score,Bessel van der Kolk,10,2022,1,combined-print-and-e-book-nonfiction
+550,2022-01-01,Renegades,Barack Obama and Bruce Springsteen,11,2022,1,combined-print-and-e-book-nonfiction
+551,2022-01-01,The Real Anthony Fauci,Robert F. Kennedy Jr,12,2022,1,combined-print-and-e-book-nonfiction
+552,2022-01-01,These Precious Days,Ann Patchett,13,2022,1,combined-print-and-e-book-nonfiction
+553,2022-01-01,Greenlights,Matthew McConaughey,14,2022,1,combined-print-and-e-book-nonfiction
+554,2022-01-01,The Dawn Of Everything,David Graeber and David Wengrow,15,2022,1,combined-print-and-e-book-nonfiction
+555,2022-02-01,Enough Already,Valerie Bertinelli,1,2022,2,combined-print-and-e-book-nonfiction
+556,2022-02-01,The Body Keeps The Score,Bessel van der Kolk,2,2022,2,combined-print-and-e-book-nonfiction
+557,2022-02-01,The Betrayal Of Anne Frank,Rosemary Sullivan,3,2022,2,combined-print-and-e-book-nonfiction
+558,2022-02-01,The 1619 Project,"ted by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",4,2022,2,combined-print-and-e-book-nonfiction
+559,2022-02-01,Unthinkable,Jamie Raskin,5,2022,2,combined-print-and-e-book-nonfiction
+560,2022-02-01,Crying In H Mart,Michelle Zauner,6,2022,2,combined-print-and-e-book-nonfiction
+561,2022-02-01,Greenlights,Matthew McConaughey,7,2022,2,combined-print-and-e-book-nonfiction
+562,2022-02-01,Will,Will Smith with Mark Manson,8,2022,2,combined-print-and-e-book-nonfiction
+563,2022-02-01,All About Love,bell hooks,9,2022,2,combined-print-and-e-book-nonfiction
+564,2022-02-01,The Storyteller,Dave Grohl,10,2022,2,combined-print-and-e-book-nonfiction
+565,2022-02-01,Blood In The Garden,Chris Herring,11,2022,2,combined-print-and-e-book-nonfiction
+566,2022-02-01,Braiding Sweetgrass,Robin Wall Kimmerer,12,2022,2,combined-print-and-e-book-nonfiction
+567,2022-02-01,Untamed,Glennon Doyle,13,2022,2,combined-print-and-e-book-nonfiction
+568,2022-02-01,Taste,Stanley Tucci,14,2022,2,combined-print-and-e-book-nonfiction
+569,2022-02-01,Just Pursuit,Laura Coates,15,2022,2,combined-print-and-e-book-nonfiction
+570,2022-03-01,From Strength To Strength,Arthur C. Brooks,1,2022,3,combined-print-and-e-book-nonfiction
+571,2022-03-01,The Body Keeps The Score,Bessel van der Kolk,2,2022,3,combined-print-and-e-book-nonfiction
+572,2022-03-01,Red-Handed,Peter Schweizer,3,2022,3,combined-print-and-e-book-nonfiction
+573,2022-03-01,The 1619 Project,"ted by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",4,2022,3,combined-print-and-e-book-nonfiction
+574,2022-03-01,The Nineties,Chuck Klosterman,5,2022,3,combined-print-and-e-book-nonfiction
+575,2022-03-01,The Splendid And The Vile,Erik Larson,6,2022,3,combined-print-and-e-book-nonfiction
+576,2022-03-01,Educated,Tara Westover,7,2022,3,combined-print-and-e-book-nonfiction
+577,2022-03-01,Crying In H Mart,Michelle Zauner,8,2022,3,combined-print-and-e-book-nonfiction
+578,2022-03-01,All About Love,bell hooks,9,2022,3,combined-print-and-e-book-nonfiction
+579,2022-03-01,Will,Will Smith with Mark Manson,10,2022,3,combined-print-and-e-book-nonfiction
+580,2022-03-01,Greenlights,Matthew McConaughey,11,2022,3,combined-print-and-e-book-nonfiction
+581,2022-03-01,Stolen Focus,Johann Hari,12,2022,3,combined-print-and-e-book-nonfiction
+582,2022-03-01,Watergate,Garrett M. Graff,13,2022,3,combined-print-and-e-book-nonfiction
+583,2022-03-01,Braiding Sweetgrass,Robin Wall Kimmerer,14,2022,3,combined-print-and-e-book-nonfiction
+584,2022-03-01,How To Be Perfect,Michael Schur,15,2022,3,combined-print-and-e-book-nonfiction
+585,2022-04-01,One Damn Thing After Another,William P. Barr,1,2022,4,combined-print-and-e-book-nonfiction
+586,2022-04-01,The Body Keeps The Score,Bessel van der Kolk,2,2022,4,combined-print-and-e-book-nonfiction
+587,2022-04-01,Lessons From The Edge,Marie Yovanovitch,3,2022,4,combined-print-and-e-book-nonfiction
+588,2022-04-01,In Love,Amy Bloom,4,2022,4,combined-print-and-e-book-nonfiction
+589,2022-04-01,The Splendid And The Vile,Erik Larson,5,2022,4,combined-print-and-e-book-nonfiction
+590,2022-04-01,Crying In H Mart,Michelle Zauner,6,2022,4,combined-print-and-e-book-nonfiction
+591,2022-04-01,The 1619 Project,"ted by Nikole Hannah-Jones, Caitlin Roper, Ilena Silverman and Jake Silverstein",7,2022,4,combined-print-and-e-book-nonfiction
+592,2022-04-01,Educated,Tara Westover,8,2022,4,combined-print-and-e-book-nonfiction
+593,2022-04-01,Will,Will Smith with Mark Manson,9,2022,4,combined-print-and-e-book-nonfiction
+594,2022-04-01,All About Love,bell hooks,10,2022,4,combined-print-and-e-book-nonfiction
+595,2022-04-01,Endurance,Alfred Lansing,11,2022,4,combined-print-and-e-book-nonfiction
+596,2022-04-01,The Betrayal Of Anne Frank,Rosemary Sullivan,12,2022,4,combined-print-and-e-book-nonfiction
+597,2022-04-01,Braiding Sweetgrass,Robin Wall Kimmerer,13,2022,4,combined-print-and-e-book-nonfiction
+598,2022-04-01,Red-Handed,Peter Schweizer,14,2022,4,combined-print-and-e-book-nonfiction
+599,2022-04-01,The Gates Of Europe,Serhii Plokhy,15,2022,4,combined-print-and-e-book-nonfiction
