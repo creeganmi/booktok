@@ -36,7 +36,7 @@
 - 🎓 &nbsp; How to use version control on booktok
 
 1. Clone repo in IDE
-2. Create branch using git checkout -b feature/<words-related-to-your-next-submission> and git pull origin main
+2. Create branch using git checkout -b feature/(words-related-to-your-next-submission) and git pull origin main
 4. Write your code
 5. git add -A
 6. git commit -m "enter message here related to your change"
