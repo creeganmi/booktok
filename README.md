@@ -2,6 +2,10 @@
 
 <h2>Welcome to BookTok Repo!</h2>
 
+ <a href="https://drive.google.com/file/d/1MRCN70GiMOah3XWyyz0s_vaDdB6DHaj6/view?usp=sharing"><img src="https://img.shields.io/badge/-Audible%20Catalogue-333333?style=flat&logo=Audible"/></a>
+ 
+ <a href="https://drive.google.com/file/d/1vAkSbl2YtPau2r7LUMPaSEuNxqZ2Fxlu/view?usp=sharing"><img src="https://img.shields.io/badge/-Tweets-333333?style=flat&logo=Twitter"/></a>
+
 <h3> 💻 &nbsp;What is this?</h3>
 
 - 🤔 &nbsp; Exploring how people interact with books on twitter, identifying trending books, hashtags, and more!
@@ -33,10 +37,6 @@
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=creeganmi&show_icons=true&theme=radical" />
-
- <a href="https://drive.google.com/file/d/1MRCN70GiMOah3XWyyz0s_vaDdB6DHaj6/view?usp=sharing"><img src="https://img.shields.io/badge/-Audible%20Catalogue-333333?style=flat&logo=Audible"/></a>
- 
- <a href="https://drive.google.com/file/d/1vAkSbl2YtPau2r7LUMPaSEuNxqZ2Fxlu/view?usp=sharing"><img src="https://img.shields.io/badge/-Tweets-333333?style=flat&logo=Twitter"/></a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
