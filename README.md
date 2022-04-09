@@ -18,7 +18,10 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
+  ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=snowflake)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Presto](https://img.shields.io/badge/-Presto-333333?style=flat&logo=Presto)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=Postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
