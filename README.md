@@ -41,10 +41,10 @@
 5. git add -A
 6. git commit -m "enter message here related to your change"
 7. git push
-8. got to github page and go to "pull requests" >> pull your changes from your branch into main
+8. Go to github page and go to "pull requests" >> pull your changes from your branch into main
 9. Done!
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/michaelcreegan"><img src="https://img.shields.io/badge/-Michael%20Creegan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
