@@ -33,10 +33,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=creeganmi&show_icons=true&theme=radical" />
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -57,3 +53,6 @@
 9. Done!
 
 
+<!-- <p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=creeganmi&show_icons=true&theme=radical" /> -->
