@@ -38,11 +38,12 @@
 1. Clone repo in IDE
 2. Create branch using git checkout -b feature/(words-related-to-your-next-submission) and git pull origin main
 4. Write your code
-5. git add -A
-6. git commit -m "enter message here related to your change"
-7. git push
-8. Go to github page and go to "pull requests" >> pull your changes from your branch into main
-9. Done!
+5. after done run git pull from main branch to make sure you have the latest version from main on your branch
+6. git add -A
+7. git commit -m "enter message here related to your change"
+8. git push
+9. Go to github page and go to "pull requests" >> pull your changes from your branch into main
+10. Done!
 
 <h3> 🤝🏻 &nbsp;Connect with me </h3>
 
