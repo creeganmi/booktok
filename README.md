@@ -50,7 +50,3 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/michaelcreegan"><img src="https://img.shields.io/badge/-Michael%20Creegan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:creegan.mi@gamil.com"><img src="https://img.shields.io/badge/-creegan.mi@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-<!-- <p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=creeganmi&show_icons=true&theme=radical" /> -->
