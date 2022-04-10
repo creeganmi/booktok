@@ -32,8 +32,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
- 
-- 🎓 &nbsp; How to use version control on booktok
+<h3> 🎓 &nbsp; How to use version control on booktok</h3>
 
 1. Clone repo in IDE
 2. Create branch using git checkout -b feature/(words-related-to-your-next-submission) and git pull origin main
